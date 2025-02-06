@@ -1,0 +1,30 @@
+{
+  "name": "validador_acessibilidade_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspwo/validador_acessibilidade_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspwo/validador_acessibilidade_web/issues"
+  },
+  "homepage": "https://github.com/lucaspwo/validador_acessibilidade_web#readme",
+  "dependencies": {
+    "@axe-core/puppeteer": "^4.10.1",
+    "axios": "^1.7.9",
+    "chrome-launcher": "^1.1.2",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "lighthouse": "^12.3.0",
+    "puppeteer": "^24.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
