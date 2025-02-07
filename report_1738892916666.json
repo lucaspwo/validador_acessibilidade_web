@@ -1,0 +1,30 @@
+{
+  "url": "https://lucaspwo.com",
+  "axe_violations": 6,
+  "axe_issues": [
+    {
+      "id": "color-contrast",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+    },
+    {
+      "id": "landmark-one-main",
+      "description": "Ensure the document has a main landmark"
+    },
+    {
+      "id": "link-in-text-block",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color"
+    },
+    {
+      "id": "link-name",
+      "description": "Ensure links have discernible text"
+    },
+    {
+      "id": "page-has-heading-one",
+      "description": "Ensure that the page, or at least one of its frames contains a level-one heading"
+    },
+    {
+      "id": "region",
+      "description": "Ensure all page content is contained by landmarks"
+    }
+  ]
+}

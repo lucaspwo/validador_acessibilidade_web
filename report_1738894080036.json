@@ -1,0 +1,38 @@
+{
+  "url": "https://ufrn.br",
+  "axe_violations": 8,
+  "axe_issues": [
+    {
+      "id": "aria-hidden-focus",
+      "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements"
+    },
+    {
+      "id": "button-name",
+      "description": "Ensure buttons have discernible text"
+    },
+    {
+      "id": "color-contrast",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+    },
+    {
+      "id": "image-alt",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation"
+    },
+    {
+      "id": "landmark-one-main",
+      "description": "Ensure the document has a main landmark"
+    },
+    {
+      "id": "landmark-unique",
+      "description": "Ensure landmarks are unique"
+    },
+    {
+      "id": "link-name",
+      "description": "Ensure links have discernible text"
+    },
+    {
+      "id": "region",
+      "description": "Ensure all page content is contained by landmarks"
+    }
+  ]
+}
